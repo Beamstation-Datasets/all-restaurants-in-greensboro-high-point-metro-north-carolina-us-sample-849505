@@ -1,0 +1,12 @@
+{
+  "export_job_id": "719d4e75-ea6a-407b-865e-6e331d3adfc8",
+  "id_short": 849505,
+  "published_at": "2026-04-16T07:07:34Z",
+  "repo_name": "all-restaurants-in-greensboro-high-point-metro-north-carolina-us-sample-849505",
+  "sample_asset_name": "beamstation_849505_restaurants-us-greensborohighpointnc_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/849505/beamstation_849505_restaurants-us-greensborohighpointnc_SAMPLE_DIST.csv",
+  "sample_records": 180,
+  "sample_sha256": "2b60891d9023a7089e0751a30ada4d7a458764dc3f60e173e90b613b35da22bc",
+  "sample_size_bytes": 697002,
+  "total_records": 1660
+}
