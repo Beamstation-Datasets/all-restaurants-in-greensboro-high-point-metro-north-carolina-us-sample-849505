@@ -1,0 +1,22 @@
+{
+  "base_price": 3750,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Multi-city restaurant dataset for Greensboro-High Point (Metro), North Carolina, covering Greensboro and High Point. Spans multiple municipalities within a mid-size metropolitan dining market. Filtered by the Restaurants category group with business profiles, sentiment data, review trends, and competitive benchmarks. Refreshed weekly.",
+  "config_name": "All Restaurants in Greensboro-High Point (Metro), North Carolina, US",
+  "export_job_id": "719d4e75-ea6a-407b-865e-6e331d3adfc8",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 849505,
+  "location_name": "Greensboro-High Point, NC",
+  "location_type": "metro",
+  "repo_name": "all-restaurants-in-greensboro-high-point-metro-north-carolina-us-sample-849505",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/849505/beamstation_849505_restaurants-us-greensborohighpointnc_SAMPLE_DIST.csv",
+  "sample_pct": 10.84,
+  "sample_records": 180,
+  "sample_sha256": "2b60891d9023a7089e0751a30ada4d7a458764dc3f60e173e90b613b35da22bc",
+  "sample_size_bytes": 697002,
+  "total_records": 1660,
+  "updated_at": "2026-03-31T15:59:47.232458+00:00"
+}
