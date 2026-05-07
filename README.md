@@ -1,6 +1,6 @@
 # All Restaurants in Greensboro-High Point (Metro), North Carolina, US
 
-> Free BeamStation sample export with 145 rows and masked direct-contact fields.
+> Free BeamStation sample export with 205 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `849505` |
 | Location | Greensboro-High Point, NC |
 | Category | Restaurants |
-| Full dataset size | 1,454 records |
-| Free sample size | 145 records (9.97%) |
-| Last export | 2026-04-28T19:45:24.275800+00:00 |
+| Full dataset size | 2,053 records |
+| Free sample size | 205 records (9.99%) |
+| Last export | 2026-05-07T08:35:25.498667+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-greensboro-high-point-metro-north-carolina-us-sample-849505/releases/download/sample-latest/beamstation_849505_restaurants-us-greensborohighpointnc_SAMPLE_DIST.csv) |
 
 ## What is in this sample
